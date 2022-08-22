@@ -1,5 +1,10 @@
 # conflicts
-doreen kruppagit stat
+
+
+samantha
+
+doreen kruppa
+
 
 
 
