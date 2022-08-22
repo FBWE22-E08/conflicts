@@ -1,8 +1,8 @@
 # conflicts
-<<<<<<< HEAD
+
 
 samantha
-=======
+
 doreen
 
 
@@ -101,4 +101,3 @@ doreen
 
 
 Mikhail
->>>>>>> e9ded420d5bd5f47753d8846e5fb7b09da1390b0
