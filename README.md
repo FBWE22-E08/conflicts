@@ -2,19 +2,23 @@
 <<<<<<< HEAD
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 samantha casey
 =======
 doreen
 
 Oksanag
 =======
+=======
+Jonathan
+>>>>>>> a6753c635be99bc73ce4e0686b38b706fa75b2a4
 samantha
 victoria
 
 
 samantha
 
-doreen kruppa
+doreen kruppa!
 
 
 Victoria
@@ -22,7 +26,7 @@ Victoria
 
 DJordje 
 
-
+Ahmad Sheeraz Saeed
 
 
 
@@ -122,4 +126,8 @@ Mikhail
 =======
 Mikhail
 >>>>>>> cd1550c77fced58094f31622ed94c94e92aef863
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/main
+=======
+>>>>>>> 614a6b68fd42136675ad76f932297afe420e8d77
+>>>>>>> a6753c635be99bc73ce4e0686b38b706fa75b2a4
