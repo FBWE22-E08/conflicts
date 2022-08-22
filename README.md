@@ -18,7 +18,7 @@ victoria
 
 samantha
 
-doreen kruppa!
+Doreen Kruppa!
 
 
 Victoria
