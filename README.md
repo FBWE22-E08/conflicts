@@ -1,21 +1,30 @@
 # conflicts
-Oksanag
-Jonathan
-samantha 
-doreen kruppa!
-samantha casey
-doreen
+
+
+
+
+Doreen Kruppa! :-)
+
 Oksana
+
 Jonathan
+
 samantha
-victoria
-samantha
+
 Victoria
+
 DJordje 
+
 Ahmad Sheeraz Saeed
-Mikhail
-Celine Adam
-Pedro
+
 Mikhail
 
+Celine Adam
+
+Pedro
+
+
 Hiwot
+
+Mikhail
+
