@@ -1,8 +1,6 @@
 # conflicts
 
-<<<<<<< HEAD
 Jonathan
-=======
 samantha
 victoria
 
@@ -16,7 +14,7 @@ Victoria
 
 DJordje 
 
-
+Ahmad Sheeraz Saeed
 
 
 
