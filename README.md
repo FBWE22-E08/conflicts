@@ -1,7 +1,7 @@
 # conflicts
 <<<<<<< HEAD
 
-samantha casey
+samantha
 =======
 doreen
 
