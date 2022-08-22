@@ -1,9 +1,9 @@
 # conflicts
 <<<<<<< HEAD
-
-samantha
 =======
 doreen
+Mikhail
+samantha
 
 
 
